@@ -1,0 +1,30 @@
+{
+  "total": 5,
+  "todoList": [
+    {
+      "id": 1,
+      "title": "Morning Exercise",
+      "completion": 2
+    },
+    {
+      "id": 2,
+      "title": "Lunch",
+      "completion": 2
+    },
+    {
+      "id": 3,
+      "title": "Grocery Shopping",
+      "completion": 0
+    },
+    {
+      "id": 4,
+      "title": "Sleep",
+      "completion": 0
+    },
+    {
+      "id": 5,
+      "title": "Study",
+      "completion": 0
+    }
+  ]
+}
