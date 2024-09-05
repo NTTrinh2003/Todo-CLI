@@ -1,6 +1,5 @@
 # Todo-CLI
-This is a self-study project
-
+This is a self-study project.  
 The project is a CLI Todo List application using Javascript, NodeJS and JSON as database.
 
 Usage:
@@ -24,5 +23,7 @@ Usage:
     - delete, mark-done, mark-in-progress:
       - \<id\>: the id of the task
 
-This repository may not be the best practice to fulfill the application's purpose, so if you have a better idea to do it, and if you have time, leave a comment, I am willing to learn.
+This repository may not be the best practice to fulfill the application's purpose,  
+so if you have a better idea to do it, and if you have time, leave a comment, I am willing to learn. 
+
 Thank you for visiting.
