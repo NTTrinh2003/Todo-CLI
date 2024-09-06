@@ -1,5 +1,5 @@
 # Todo-CLI
-This is a self-study project.
+This is a self-study project.  
 Project URL: https://roadmap.sh/projects/task-tracker  
 The project is a CLI Todo List application using Javascript, NodeJS and JSON as database.
 
