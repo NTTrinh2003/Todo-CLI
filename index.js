@@ -1,7 +1,5 @@
 const { program } = require('commander');
 const { list, listByCompletion } = require('./commands/list');
-const chalk = require('chalk');
-const fs = require('fs');
 const add = require('./commands/add');
 const delete_task = require('./commands/delete');
 const update = require('./commands/update');
@@ -26,14 +24,14 @@ program
     .command('delete <id>')
     .description('Delete a task by ID')
     .action(id => {
-        deleteTask(id);
+        delete_task(id);
     });
 
 program
     .command('update <id> <title>')
     .description('Update a task by ID')
     .action((id, title) => {
-        updateTask(id, title);
+        update(id, title);
     });
 
 program
